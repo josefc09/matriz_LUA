@@ -1,1 +1,2 @@
-# matriz_LUA
+# MatrizLUA
+Implementation of Matrix LUA
